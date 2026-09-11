@@ -1,4 +1,4 @@
-#Requerimientos
+# Requerimientos
 ## Actores y roles 
 El encargado es el actor principal ya que el sistema estara diseñado para el. Es quien ingresa la informacion de compras y gastos, y tambien quien consulta la informacion final para tomar las decisiones del negocio.
 El cajero es el empleado que atiende el local. Su rol dentro del istema es ingresar las ventas diarias al termino de su jornada.
@@ -10,7 +10,7 @@ n8n es un actor extermo que extrae la informacion del sistema y la usa para asis
 4) Automatizacion de pan: esta dentro del alcance registrar la compra y el stock de pan y generar una recomendacion de la cantidad a abastecer, queda fuera del alcance realizar la compra automatica.
 5) Notificaciones automaticas: Esta dentro del alcance enviar notificaciones por telegram al encargado para recordarle los registros diarios. Queda fuera del alcance enviar mensajes automaticos a proveedores, clientes o aplicaciones externas.
 
-##Requisitos funcionales
+## Requisitos funcionales
 1) El sistema debe registrar las ventas diarias, con el monto total y los montos desagregados por el metodo de pago (must have)
 2) El sistema debe registrar las compras a proveedores, considerando fecha, proveedor, monto y metodo de pago. (must have)
 3) El sistema debe permitir crear, editar y consultar proveedores, categorias y medios de pago. (must have)
@@ -29,7 +29,7 @@ El tercer problema se atiende con los requisitos 5 y 6, que permiten que el enca
 
 El cuarto problema, sobre la falta de registro de inventario y el abastecimiento por herramientas por observacion se atiende con los 8 y 9, que entregan al encargado mas herramientas para decidir cuanto pan comprar.
 
-##Requisimos no funcionales
+## Requisimos no funcionales
 1) El sistema debe ser sencillo de aprender para cualquiera (must have)
 2) El sistema debe guardar la informacion de manera permanente, de modo que siga disponible en los proximos usos. (must have)
 3) El sistema debe permitir que los usuarios sin conocimientos tecnicos modifiquen categorias y medios de pago. (must have)
