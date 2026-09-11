@@ -1,10 +1,10 @@
 # ICN292_P101_E1_Sanchez_Oviedo_Andrade_Rivano
 ICN-292, Segundo Semestre 2026
 
-Juan Sánchez - 202360550-6
-Oven Oviedo - 202360587-5
-Juan Andrade  - 202304601-9
-Camilo Rivano - 202304534-9
+Juan Sánchez 202360550-6
+Oven Oviedo 202360587-5
+Juan Andrade 202304601-9
+Camilo Rivano 202304534-9
 
 (1) Este repositorio contiene la propuesta integral de un Sistema De Informacion para la Gestion diseñado para la optimizacion del trabajo con datos de nuestra pyme.
 
@@ -34,10 +34,10 @@ Ademas de esto presentamos automatizaciones como recordatorios automaticos o sug
 
 (3) Toda la informacion obtenida en en esta 1era parte de la entrega del proyecto genera las bases para la 2da entrega:
 
--Base de Datos: El diseño del modelo ER se concreta en la creacion de la base de datos en SQL
--Interfaz de Usuario: La propuesta de formularios tipo "pop up" para registrar ventas, compras y egresos se materializa en una apliacion
--Toma de decisiones: Loa datos almacenados se utilizan par hacer un seguimiento con KPIs 
--Automatizacion: Se genera la automatizacion mediante n8n de alguno de los procesos tomados en los diagramas bpmn.
+1) Base de Datos: El diseño del modelo ER se concreta en la creacion de la base de datos en SQL
+2) Interfaz de Usuario: La propuesta de formularios tipo "pop up" para registrar ventas, compras y egresos se materializa en una apliacion
+3) Toma de decisiones: Loa datos almacenados se utilizan par hacer un seguimiento con KPIs 
+4) Automatizacion: Se genera la automatizacion mediante n8n de alguno de los procesos tomados en los diagramas bpmn.
 
 (4) Toda la informacion se abarca de mejor manera y de manera mas profunda en el informe de la carpeta informe informe/ICN292_P101_E1_Sánchez_Oviedo_Andrade_Rivano.docx
 
