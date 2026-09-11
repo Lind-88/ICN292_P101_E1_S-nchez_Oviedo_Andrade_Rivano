@@ -11,9 +11,9 @@ Este repositorio contiene la propuesta integral de un sistema de informacion par
 La pyme a estudiar sera "almacen la maestra" ubicado en Av. Fontt 1244 en la comuna de Colina, pyme dedicada a la venta de mercaderia y abarrotes clasicos de consumo diario.
 
 La pyme presenta importantes limitaciones actualmente, entre ellas:
-1)Gestion manual en excel 
-2)Toma de decisiones sin analisis basado en datos
-3)Control de inventario e insumos impreciso
+1) Gestion manual en excel 
+2) Toma de decisiones sin analisis basado en datos
+3) Control de inventario e insumos impreciso
 
 En conjunto el problema central es la falta de un sistema de informacion centralizado que permita analizar datos y factores relevantes para la gestion del almacen.
 
