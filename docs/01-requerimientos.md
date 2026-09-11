@@ -29,7 +29,7 @@ El tercer problema se atiende con los requisitos 5 y 6, que permiten que el enca
 
 El cuarto problema, sobre la falta de registro de inventario y el abastecimiento por herramientas por observacion se atiende con los 8 y 9, que entregan al encargado mas herramientas para decidir cuanto pan comprar.
 
-## Requisimos no funcionales
+## Requisitos no funcionales
 1) El sistema debe ser sencillo de aprender para cualquiera (must have)
 2) El sistema debe guardar la informacion de manera permanente, de modo que siga disponible en los proximos usos. (must have)
 3) El sistema debe permitir que los usuarios sin conocimientos tecnicos modifiquen categorias y medios de pago. (must have)
