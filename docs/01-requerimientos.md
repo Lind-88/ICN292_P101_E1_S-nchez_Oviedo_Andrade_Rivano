@@ -13,9 +13,9 @@ n8n es un actor extermo que extrae la informacion del sistema y la usa para asis
 ## Requisitos funcionales
 1) El sistema debe registrar las ventas diarias, con el monto total y los montos desagregados por el metodo de pago (must have)
 2) El sistema debe registrar las compras a proveedores, considerando fecha, proveedor, monto y metodo de pago. (must have)
-3) El sistema debe permitir crear, editar y consultar proveedores, categorias y medios de pago. (must have)
-4) El sistema debe permitir consultar y busccar informacion en los datos historicos. (must have)
-5) El sistema debe permitir crear, editar y consultar proveedores, categorias y medios de pago. (must have)
+3) El sistema debe registrar los gastos operacionales, para posteriormente clasificarlos según el tipo de gasto operacional (remuneración, arriendo y servicios, entre otros). (must have)
+4) El sistema debe permitir crear, editar y consultar proveedores, categorías y medios de pago.   (Must have)
+5) El sistema debe permitir consultar y buscar información en los datos históricos. (Must have)
 6) El sistema debe calcular indicadores de desempeño del periodo. (must have)
 7) El sistema debe recordar al encargado realizar los registros diarios. (should have)
 8) El sistema debe registrar la cantidad de pan abastecido y el stock disponible. (should have)
